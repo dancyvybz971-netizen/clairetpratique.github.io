@@ -1,0 +1,1 @@
+Décompressez cette archive et envoyez son contenu dans le dépôt GitHub Pages. index.html doit rester à la racine. Avant AdSense, personnalisez les mentions légales, confidentialité, cookies et formulaires. Remplacez l'URL d'exemple du sitemap par votre URL réelle si votre nom GitHub diffère.
